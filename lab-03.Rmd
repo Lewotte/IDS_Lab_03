@@ -5,6 +5,12 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
+> ### Note from Sky \
+I fell ill, so unfortuantely I cannot make it to lab today. \
+If you need the host of the repository to be present feel free to make a new repository and use that instead of this one (since I'm hosting this repository). \
+ Have a lovely day. \
+<p style='text-align: right;'> _11 Oct 2024_ </p>
+
 ### Load packages
 
 ```{r load-packages, message = FALSE, warning=FALSE}
